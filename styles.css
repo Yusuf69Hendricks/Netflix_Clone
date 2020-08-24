@@ -18,7 +18,7 @@
 .banner-wrap {
     padding: 0;
     margin: 0;
-    background: url(assets/bgimage.jpg) 0 0 no-repeat;
+    background: url(images/bgimage.jpg) 0 0 no-repeat;
     background-size: cover;
     background-position: center;
     height: 80vh;
